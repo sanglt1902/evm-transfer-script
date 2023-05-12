@@ -1,0 +1,16 @@
+{
+  "name": "transfer_script",
+  "version": "1.0.0",
+  "description": "transfer script to test eth transfer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Sang",
+  "license": "ISC",
+  "dependencies": {
+    "prompts": "^2.4.2",
+    "web3": "^1.10.0"
+  }
+}
